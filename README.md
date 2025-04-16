@@ -1,7 +1,5 @@
-# server-setup-wizard
 
-
-# 🧙‍♂️ Server Setup Wizard
+#  Server Setup Wizard
 
 **Server Setup Wizard** is a Bash script that simplifies the installation of common web development tools and services on Linux servers. The script offers a guided, interactive installation process that allows users to select which components they want to install.
 
